@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="p3core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p3core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
